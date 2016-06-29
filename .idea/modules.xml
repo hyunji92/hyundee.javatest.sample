@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ObjectTest/ObjectTest.iml" filepath="$PROJECT_DIR$/ObjectTest/ObjectTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hyundee.javatest.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/hyundee.javatest.sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hyundee.javatest.sample_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hyundee.javatest.sample_main.iml" group="hyundee.javatest.sample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hyundee.javatest.sample_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hyundee.javatest.sample_test.iml" group="hyundee.javatest.sample" />
+    </modules>
+  </component>
+</project>

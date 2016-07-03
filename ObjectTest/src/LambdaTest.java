@@ -61,8 +61,8 @@ public class LambdaTest {
         System.out.println("----------------------------");
 
         List<Integer> list = Arrays.asList(2,5,7,3,8,10);
-
-        int s =  sumAll(list, n->true);
+        Predicate<Integer> predicate = n->true;
+        int s =  sumAll(list, predicate);
         System.out.println(s);
         list.stream();
 

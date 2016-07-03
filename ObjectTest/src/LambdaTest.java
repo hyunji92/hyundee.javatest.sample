@@ -48,6 +48,7 @@ public class LambdaTest {
                 dev
                     .stream()
                     .peek(d -> d.setCarri(20));
+
         System.out.println(dev.get(0).getCarri());
 
         developStream.count();

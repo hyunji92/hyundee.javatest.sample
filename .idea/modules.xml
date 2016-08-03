@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hyundee.javatest.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/hyundee.javatest.sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hyundee.javatest.sample_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hyundee.javatest.sample_main.iml" group="hyundee.javatest.sample" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hyundee.javatest.sample_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hyundee.javatest.sample_test.iml" group="hyundee.javatest.sample" />
+      <module fileurl="file://$PROJECT_DIR$/referenceTest/referenceTest.iml" filepath="$PROJECT_DIR$/referenceTest/referenceTest.iml" />
     </modules>
   </component>
 </project>

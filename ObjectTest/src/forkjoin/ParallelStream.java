@@ -8,7 +8,8 @@ import java.util.stream.Stream;
 public class ParallelStream {
 
     /** 무한 스트림을 만들고 인수로 주어진 크기로 스트림을 제한하고, 두 숫자를 더하는 BinaryOperator로 리듀싱 작업을 수행할 수 있다
-     * 병렬 스트림이란 각각의 스레드에서 처리할 수 있도록 스트림 요소를 여러 덩어리로 분할한 스트림이다.*/
+     *  병렬 스트림이란 각각의 스레드에서 처리할 수 있도록 스트림 요소를 여러 덩어리로 분할한 스트림이다.
+     *  병렬 스트림을 이용하면 모든 멀티코어 프로세서가 각각의 청크를 처리하도록 할당할 수 있다. */
     public static long SequentialSum(long n){
         return Stream.iterate(1L, i -> i+1) // 무한 자연수 스트림 생성
                      .limit(n) // n개 이하로 제한

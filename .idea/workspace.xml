@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c8ce1aa-9f50-4af9-bd5d-f9deb052fbeb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ObjectTest/src/forkjoin/ParallelStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ObjectTest/src/chapter888/Test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ObjectTest/src/forkjoin/ParallelStream.java" afterPath="$PROJECT_DIR$/ObjectTest/src/forkjoin/ParallelStream.java" />
     </list>
     <ignored path="hyundee.javatest.sample.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,17 +45,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dish.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ObjectTest/src/dish/Dish.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
-              <caret line="60" column="68" selection-start-line="60" selection-start-column="68" selection-end-line="60" selection-end-column="68" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -64,7 +57,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
               <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -74,7 +69,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="697">
               <caret line="47" column="52" selection-start-line="47" selection-start-column="52" selection-end-line="47" selection-end-column="52" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,8 +79,8 @@
       <file leaf-file-name="ForkJoinSumCalculation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ObjectTest/src/forkjoin/ForkJoinSumCalculation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
+            <state relative-caret-position="431">
+              <caret line="64" column="30" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,11 +88,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ParallelStream.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ObjectTest/src/chapter888/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParallelStream.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ObjectTest/src/forkjoin/ParallelStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+            <state relative-caret-position="187">
+              <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -106,7 +113,17 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="544">
               <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#429#430#0" expanded="false" />
+                <element signature="e#456#457#0" expanded="false" />
+                <element signature="e#521#522#0" expanded="false" />
+                <element signature="e#548#549#0" expanded="false" />
+                <element signature="e#611#612#0" expanded="false" />
+                <element signature="e#638#639#0" expanded="false" />
+                <element signature="e#704#705#0" expanded="false" />
+                <element signature="e#731#732#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,7 +134,8 @@
             <state relative-caret-position="408">
               <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#2891#2892#0" expanded="false" />
+                <element signature="e#2933#2934#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -128,7 +146,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1190">
               <caret line="77" column="8" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -138,7 +158,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="24" column="66" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="66" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -435,6 +457,7 @@
         <option value="$PROJECT_DIR$/ObjectTest/src/collector/PrimeNumberCollector.java" />
         <option value="$PROJECT_DIR$/ObjectTest/src/forkjoin/ForkJoinSumCalculation.java" />
         <option value="$PROJECT_DIR$/ObjectTest/src/forkjoin/ParallelStream.java" />
+        <option value="$PROJECT_DIR$/ObjectTest/src/chapter888/Test.java" />
       </list>
     </option>
   </component>
@@ -616,6 +639,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="collector" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hyundee.javatest.sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hyundee.javatest.sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ObjectTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter888" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1105,7 +1150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1471171179172</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Java - 7단원 예제중&#10;parallelStream&#10;">
+      <created>1471443761631</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1471443761631</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1122,7 +1174,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13876967" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13948497" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1186,7 +1238,8 @@
     <MESSAGE value="Java - 6단원&#10;Collector&#10;" />
     <MESSAGE value="Java - 6단원 마무리&#10;Collector &#10;" />
     <MESSAGE value="Java - 8단원 &#10;ForJionSumCalculator&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java - 8단원 &#10;ForJionSumCalculator&#10;" />
+    <MESSAGE value="Java - 7단원 예제중&#10;parallelStream&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java - 7단원 예제중&#10;parallelStream&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1197,13 +1250,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ObjectTest/src/aroundpattern/AroundFunctionProcess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/referenceTest/src/couple/kukejelly/ReferenceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1441,6 +1487,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="128" column="17" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
+          <folding>
+            <marker date="1433812789000" expanded="false" signature="0:215" ph="/.../" />
+            <marker date="1433812789000" expanded="false" signature="244:377" ph="..." />
+            <marker date="1433812789000" expanded="true" signature="379:5773" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="5831:6088" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="6110:6273" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="6302:7197" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="7240:8256" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="8303:9717" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="9778:11212" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="11245:12859" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="12916:14033" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="14089:14353" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="14392:15165" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="15192:16017" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="16051:16921" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="16964:17618" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="17644:24716" ph="{...}" />
+            <marker date="1433812789000" expanded="true" signature="17654:17989" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="18019:18521" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="18553:19760" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="19799:20719" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="20763:21486" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="21520:22048" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="22152:22291" ph="{...}" />
+            <marker date="1433812789000" expanded="true" signature="22301:22831" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="22937:23080" ph="{...}" />
+            <marker date="1433812789000" expanded="true" signature="23090:23606" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="23706:23889" ph="{...}" />
+            <marker date="1433812789000" expanded="true" signature="23899:24421" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="24523:24710" ph="{...}" />
+            <marker date="1433812789000" expanded="true" signature="24753:25375" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="25411:25979" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="26033:27135" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="27191:27317" ph="{...}" />
+            <marker date="1433812789000" expanded="true" signature="27323:28474" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="28541:29008" ph="{...}" />
+            <marker date="1433812789000" expanded="true" signature="29014:31110" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="31195:31978" ph="{...}" />
+            <marker date="1433812789000" expanded="true" signature="31984:34121" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="34164:34282" ph="{...}" />
+            <marker date="1433812789000" expanded="true" signature="34288:35864" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="35918:36142" ph="{...}" />
+            <marker date="1433812789000" expanded="true" signature="36148:38156" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="38216:38450" ph="{...}" />
+            <marker date="1433812789000" expanded="true" signature="38456:40306" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="40345:40514" ph="{...}" />
+            <marker date="1433812789000" expanded="true" signature="40520:43222" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="43322:43632" ph="{...}" />
+            <marker date="1433812789000" expanded="true" signature="43638:45870" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="45986:46424" ph="{...}" />
+            <marker date="1433812789000" expanded="true" signature="46430:49088" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="49195:49816" ph="{...}" />
+            <marker date="1433812789000" expanded="true" signature="49822:52731" ph="/**...*/" />
+            <marker date="1433812789000" expanded="true" signature="52845:53224" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1487,7 +1589,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1495,7 +1599,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1503,7 +1609,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="24" column="66" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="66" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1511,7 +1619,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#429#430#0" expanded="false" />
+            <element signature="e#456#457#0" expanded="false" />
+            <element signature="e#521#522#0" expanded="false" />
+            <element signature="e#548#549#0" expanded="false" />
+            <element signature="e#611#612#0" expanded="false" />
+            <element signature="e#638#639#0" expanded="false" />
+            <element signature="e#704#705#0" expanded="false" />
+            <element signature="e#731#732#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1520,7 +1638,8 @@
         <state relative-caret-position="408">
           <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#2891#2892#0" expanded="false" />
+            <element signature="e#2933#2934#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1529,7 +1648,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1190">
           <caret line="77" column="8" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1537,24 +1658,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="47" column="52" selection-start-line="47" selection-start-column="52" selection-end-line="47" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ObjectTest/src/forkjoin/ForkJoinSumCalculation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ObjectTest/src/forkjoin/ParallelStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+        <state relative-caret-position="187">
+          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectTest/src/forkjoin/ForkJoinSumCalculation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="64" column="30" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectTest/src/chapter888/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
           <folding />
         </state>
       </provider>

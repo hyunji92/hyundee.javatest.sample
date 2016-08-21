@@ -1,5 +1,10 @@
 package forkjoin;
 
+import aroundpattern.AroundPatternTest;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.stream.Stream;
 
 /**
@@ -14,6 +19,14 @@ public class ParallelStream {
         return Stream.iterate(1L, i -> i+1) // 무한 자연수 스트림 생성
                      .limit(n) // n개 이하로 제한
                      .reduce(0L, Long::sum); // 모든 숫자를 더하는 스트림 리듀싱 연산
+
+    }
+    public static String inPut(AroundPatternTest.BufferReaderProcessor bufferReaderProcessor) throws IOException {
+
+        try (BufferedReader br = new BufferedReader(new FileReader("data2.txt"))) {
+//new InputStreamReader(System.in)
+            return bufferReaderProcessor.process(br);
+        }
     }
 
     public static long iterativeSum(long n){

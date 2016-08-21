@@ -1,6 +1,7 @@
 package aroundpattern;
 
 import java.io.BufferedReader;
+import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
@@ -26,8 +27,8 @@ public class AroundPatternTest {
 
     public static String inPut(BufferReaderProcessor bufferReaderProcessor) throws IOException {
 
-        try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in))) {
-
+        try (BufferedReader br = new BufferedReader(new FileReader("data2.txt"))) {
+//new InputStreamReader(System.in)
             return bufferReaderProcessor.process(br);
         }
     }

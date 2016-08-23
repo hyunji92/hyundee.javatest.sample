@@ -63,6 +63,7 @@ public class MatchTest {
         final int userCount = 12;
         final String testFileName = "test_array.txt";
         List<Set<String>> matchArray = Match.splitHobbyEachUser(testFileName, userCount);
+        // 중복을 피하기위한 Collection - set
         if(matchArray.get(0).equals(testArray)){
             System.out.println("SplitHobbyEachUser is Success !!!" );
             System.out.println("Match!!!! : " + matchArray);

@@ -26,6 +26,15 @@ public class Match {
         System.out.println(" 결과 값  : " + findMatchUser(userHobbies));
     }
 
+    public static int solution(int a, int b) {
+        if (b < 0 || b < a) {
+            return 0;
+        }
+        if (a <= 0) a = 1;
+       // System.out.println(PhoneNumberUtil.formateToPhoneNumber(str,"XXX-XXX-XX-XX",str.length()));
+        return (int) Math.ceil(Math.sqrt(b) - Math.sqrt(a));
+    }
+
 
     public static List<Set<String>> splitHobbyEachUser(String fileName, int userCount) {
         List<Set<String>> resultList = new ArrayList<>();

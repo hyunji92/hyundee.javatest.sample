@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c8ce1aa-9f50-4af9-bd5d-f9deb052fbeb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ObjectTest/src/matchmanager/Match.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ObjectTest/src/matchmanager/MatchTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ObjectTest/src/matchmanager/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ObjectTest/src/forkjoin/forkTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ObjectTest/src/test/Match.java" afterPath="$PROJECT_DIR$/ObjectTest/src/test/Match.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ObjectTest/src/test/MatchTest.java" afterPath="$PROJECT_DIR$/ObjectTest/src/test/MatchTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ObjectTest/src/apple/MethodReference.java" afterPath="$PROJECT_DIR$/ObjectTest/src/apple/MethodReference.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ObjectTest/src/forkjoin/ForkJoinSumCalculation.java" afterPath="$PROJECT_DIR$/ObjectTest/src/forkjoin/ForkJoinSumCalculation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ObjectTest/src/forkjoin/ParallelStream.java" afterPath="$PROJECT_DIR$/ObjectTest/src/forkjoin/ParallelStream.java" />
     </list>
     <ignored path="hyundee.javatest.sample.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,61 +42,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Match.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ObjectTest/src/matchmanager/Match.java">
+      <file leaf-file-name="Stream.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="901">
-              <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Match.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ObjectTest/src/test/Match.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1037">
-              <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MatchTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ObjectTest/src/test/MatchTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="65" column="37" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
+            <state relative-caret-position="2074">
+              <caret line="168" column="25" selection-start-line="168" selection-start-column="25" selection-end-line="168" selection-end-column="25" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ObjectTest/src/matchmanager/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
-              <folding>
-                <element signature="e#273#274#0" expanded="false" />
-                <element signature="e#306#307#0" expanded="false" />
-                <element signature="e#356#357#0" expanded="false" />
-                <element signature="e#400#401#0" expanded="false" />
-                <element signature="e#439#440#0" expanded="false" />
-                <element signature="e#469#470#0" expanded="false" />
-                <element signature="e#594#595#0" expanded="false" />
-                <element signature="e#628#629#0" expanded="false" />
-                <element signature="e#680#681#0" expanded="false" />
-                <element signature="e#726#727#0" expanded="false" />
-                <element signature="e#768#769#0" expanded="false" />
-                <element signature="e#803#804#0" expanded="false" />
-                <element signature="e#862#863#0" expanded="false" />
-                <element signature="e#910#911#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -105,22 +55,92 @@
       <file leaf-file-name="ForkJoinSumCalculation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ObjectTest/src/forkjoin/ForkJoinSumCalculation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="391">
+              <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
               <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#551#552#0" expanded="false" />
-                <element signature="e#599#600#0" expanded="false" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#599#600#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MatchTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ObjectTest/src/matchmanager/MatchTest.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ObjectTest/src/chapter888/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <state relative-caret-position="289">
+              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Apple.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ObjectTest/src/apple/Apple.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MethodReference.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ObjectTest/src/apple/MethodReference.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="38" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Comparator.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6732">
+              <caret line="428" column="39" selection-start-line="428" selection-start-column="39" selection-end-line="428" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AroundFunctionProcess.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ObjectTest/src/aroundpattern/AroundFunctionProcess.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AroundPatternTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ObjectTest/src/aroundpattern/AroundPatternTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="499">
+              <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forkTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ObjectTest/src/forkjoin/forkTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParallelStream.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ObjectTest/src/forkjoin/ParallelStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -403,7 +423,6 @@
         <option value="$PROJECT_DIR$/ObjectTest/src/AroundPatternTest.java" />
         <option value="$PROJECT_DIR$/ObjectTest/src/AppleSimpleFormatter.java" />
         <option value="$PROJECT_DIR$/ObjectTest/src/MethodReference.java" />
-        <option value="$PROJECT_DIR$/ObjectTest/src/apple/MethodReference.java" />
         <option value="$PROJECT_DIR$/ObjectTest/src/apple/ToSomeTest.java" />
         <option value="$PROJECT_DIR$/referenceTest/src/couple/kukejelly/ReferenceTest.java" />
         <option value="$PROJECT_DIR$/ObjectTest/src/dish/realpractice/Trader.java" />
@@ -415,20 +434,22 @@
         <option value="$PROJECT_DIR$/ObjectTest/src/collector/Reducing.java" />
         <option value="$PROJECT_DIR$/ObjectTest/src/collector/ToListCollector.java" />
         <option value="$PROJECT_DIR$/ObjectTest/src/collector/PrimeNumberCollector.java" />
-        <option value="$PROJECT_DIR$/ObjectTest/src/forkjoin/ForkJoinSumCalculation.java" />
         <option value="$PROJECT_DIR$/ObjectTest/src/chapter888/Test.java" />
         <option value="$PROJECT_DIR$/data.txt" />
         <option value="$PROJECT_DIR$/data2.txt" />
         <option value="$PROJECT_DIR$/ObjectTest/src/birdview/BirdTestCase.java" />
         <option value="$PROJECT_DIR$/ObjectTest/src/birdview/CoupleMatching.java" />
         <option value="$PROJECT_DIR$/ObjectTest/src/aroundpattern/AroundPatternTest.java" />
-        <option value="$PROJECT_DIR$/ObjectTest/src/forkjoin/ParallelStream.java" />
         <option value="$PROJECT_DIR$/test_array2.txt" />
         <option value="$PROJECT_DIR$/ObjectTest/src/matchmanager/MatchTest.java" />
         <option value="$PROJECT_DIR$/ObjectTest/src/matchmanager/User.java" />
         <option value="$PROJECT_DIR$/ObjectTest/src/matchmanager/Match.java" />
         <option value="$PROJECT_DIR$/ObjectTest/src/test/Match.java" />
         <option value="$PROJECT_DIR$/ObjectTest/src/test/MatchTest.java" />
+        <option value="$PROJECT_DIR$/ObjectTest/src/forkjoin/ParallelStream.java" />
+        <option value="$PROJECT_DIR$/ObjectTest/src/forkjoin/forkTest.java" />
+        <option value="$PROJECT_DIR$/ObjectTest/src/forkjoin/ForkJoinSumCalculation.java" />
+        <option value="$PROJECT_DIR$/ObjectTest/src/apple/MethodReference.java" />
       </list>
     </option>
   </component>
@@ -469,10 +490,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane">
         <subPane />
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -590,6 +611,98 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hyundee.javatest.sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hyundee.javatest.sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ObjectTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter888" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hyundee.javatest.sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hyundee.javatest.sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ObjectTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="birdview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hyundee.javatest.sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hyundee.javatest.sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ObjectTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aroundpattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hyundee.javatest.sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hyundee.javatest.sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ObjectTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apple" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -597,7 +710,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="full.screen.before.presentation.mode" value="false" />
@@ -1082,7 +1195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1471773702980</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Java - Coding Test / stream&#10;&#10;">
+      <created>1471926147031</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1471926147031</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1091,13 +1211,11 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3207547" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23315364" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1107,12 +1225,14 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39892185" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39892185" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3207547" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23315364" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -1187,27 +1307,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ObjectTest/src/aroundpattern/AroundPatternTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ObjectTest/src/apple/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ObjectTest/src/aroundpattern/AroundFunctionProcess.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1227,13 +1326,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="36" column="14" selection-start-line="36" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ObjectTest/src/apple/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -1270,135 +1362,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
           <caret line="803" column="4" selection-start-line="803" selection-start-column="4" selection-end-line="803" selection-end-column="4" />
-          <folding>
-            <marker date="1433812789000" expanded="false" signature="0:215" ph="/.../" />
-            <marker date="1433812789000" expanded="false" signature="250:1300" ph="..." />
-            <marker date="1433812789000" expanded="true" signature="1302:3111" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="4260:4772" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="4831:4938" ph="{...}" />
-            <marker date="1433812789000" expanded="false" signature="4944:4974" ph="/unchecked/" />
-            <marker date="1433812789000" expanded="false" signature="5033:5044" ph=" { " />
-            <marker date="1433812789000" expanded="false" signature="5062:5068" ph=" }" />
-            <marker date="1433812789000" expanded="true" signature="5074:5246" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="5317:6891" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="5825:6046" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="6254:6352" ph="{...}" />
-            <marker date="1433812789000" expanded="false" signature="6417:6432" ph=" { " />
-            <marker date="1433812789000" expanded="false" signature="6451:6461" ph=" }" />
-            <marker date="1433812789000" expanded="false" signature="6518:6533" ph=" { " />
-            <marker date="1433812789000" expanded="false" signature="6549:6559" ph=" }" />
-            <marker date="1433812789000" expanded="false" signature="6622:6637" ph=" { " />
-            <marker date="1433812789000" expanded="false" signature="6653:6663" ph=" }" />
-            <marker date="1433812789000" expanded="false" signature="6723:6738" ph=" { " />
-            <marker date="1433812789000" expanded="false" signature="6754:6764" ph=" }" />
-            <marker date="1433812789000" expanded="false" signature="6837:6852" ph=" { " />
-            <marker date="1433812789000" expanded="false" signature="6875:6885" ph=" }" />
-            <marker date="1433812789000" expanded="true" signature="6897:7477" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="7592:7794" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="7800:8314" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="8375:8597" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="8603:9200" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="9259:9487" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="9493:9754" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="9818:10065" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="10071:10438" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="10524:10574" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="10580:11226" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="11476:11692" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="11698:12178" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="12290:12478" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="12484:13782" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="13956:14346" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="14352:15245" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="15428:16283" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="16289:16743" ph="/**...*/" />
-            <marker date="1433812789000" expanded="false" signature="16802:16813" ph=" { " />
-            <marker date="1433812789000" expanded="false" signature="16853:16859" ph=" }" />
-            <marker date="1433812789000" expanded="true" signature="16865:17379" ph="/**...*/" />
-            <marker date="1433812789000" expanded="false" signature="17474:17485" ph=" { " />
-            <marker date="1433812789000" expanded="false" signature="17535:17541" ph=" }" />
-            <marker date="1433812789000" expanded="true" signature="17547:18061" ph="/**...*/" />
-            <marker date="1433812789000" expanded="false" signature="18156:18167" ph=" { " />
-            <marker date="1433812789000" expanded="false" signature="18217:18223" ph=" }" />
-            <marker date="1433812789000" expanded="true" signature="18229:18621" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="18717:18947" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="18953:19342" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="19437:19669" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="19675:20479" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="20580:21433" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="21439:21893" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="21974:22259" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="22265:22460" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="22514:22823" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="22829:23234" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="23331:23621" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="23627:24028" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="24127:24418" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="24424:25578" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="25681:26403" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="26409:27378" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="27467:27729" ph="{...}" />
-            <marker date="1433812789000" expanded="false" signature="27735:27765" ph="/unchecked/" />
-            <marker date="1433812789000" expanded="false" signature="27826:27837" ph=" { " />
-            <marker date="1433812789000" expanded="false" signature="27882:27888" ph=" }" />
-            <marker date="1433812789000" expanded="true" signature="27894:29120" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="29207:29875" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="29258:29614" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="29384:29604" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="29881:31593" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="31790:32050" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="32056:33871" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="33989:34000" ph=" { " />
-            <marker date="1433812789000" expanded="true" signature="34040:34046" ph=" }" />
-            <marker date="1433812789000" expanded="true" signature="34052:36236" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="36436:36508" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="36514:38913" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="39176:40600" ph="{...}" />
-            <marker date="1433812789000" expanded="false" signature="39693:39710" ph="&lt;~&gt;" />
-            <marker date="1433812789000" expanded="false" signature="39752:39782" ph="/unchecked/" />
-            <marker date="1433812789000" expanded="false" signature="40080:40110" ph="/unchecked/" />
-            <marker date="1433812789000" expanded="false" signature="40359:40389" ph="/unchecked/" />
-            <marker date="1433812789000" expanded="true" signature="40606:42184" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="42327:42417" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="42423:44269" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="44509:44601" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="44607:46785" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="47088:49165" ph="{...}" />
-            <marker date="1433812789000" expanded="false" signature="47301:47328" ph="&lt;~&gt;" />
-            <marker date="1433812789000" expanded="false" signature="47370:47400" ph="/unchecked/" />
-            <marker date="1433812789000" expanded="false" signature="48624:48654" ph="/unchecked/" />
-            <marker date="1433812789000" expanded="false" signature="48913:48943" ph="/unchecked/" />
-            <marker date="1433812789000" expanded="true" signature="49171:49751" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="49864:49923" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="49929:50917" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="51121:52339" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="52345:54852" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="55043:55128" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="55134:58025" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="58285:58367" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="58373:60627" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="60950:61251" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="61257:63662" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="63893:63998" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="64004:66685" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="66937:67039" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="67045:69059" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="69423:69735" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="69741:70240" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="70353:70605" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="70611:71111" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="71227:71483" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="71489:71985" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="72107:72371" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="72377:72440" ph="/**...*/" />
-            <marker date="1433812789000" expanded="true" signature="72568:73411" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="72663:72748" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="72821:73405" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="72883:73394" ph="{...}" />
-            <marker date="1433812789000" expanded="true" signature="72977:73269" ph="{...}" />
-            <marker date="1433812789000" expanded="false" signature="73330:73353" ph=" { " />
-            <marker date="1433812789000" expanded="false" signature="73362:73380" ph=" }" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1420,13 +1383,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ObjectTest/src/chapter888/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
         </state>
       </provider>
     </entry>
@@ -1500,20 +1456,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ObjectTest/src/apple/MethodReference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ObjectTest/src/aroundpattern/AroundFunctionProcess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ObjectTest/src/apple/ToSomeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-584">
@@ -1548,7 +1490,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="306" column="38" selection-start-line="306" selection-start-column="38" selection-end-line="306" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1580,20 +1521,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ObjectTest/src/aroundpattern/AroundPatternTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ObjectTest/src/forkjoin/ParallelStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_array2.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1608,23 +1535,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ObjectTest/src/forkjoin/ForkJoinSumCalculation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#551#552#0" expanded="false" />
-            <element signature="e#599#600#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ObjectTest/src/matchmanager/MatchTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1632,49 +1546,113 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectTest/src/test/MatchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectTest/src/test/Match.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="102" column="28" selection-start-line="102" selection-start-column="28" selection-end-line="102" selection-end-column="28" />
           <folding>
-            <element signature="e#273#274#0" expanded="false" />
-            <element signature="e#306#307#0" expanded="false" />
-            <element signature="e#356#357#0" expanded="false" />
-            <element signature="e#400#401#0" expanded="false" />
-            <element signature="e#439#440#0" expanded="false" />
-            <element signature="e#469#470#0" expanded="false" />
-            <element signature="e#594#595#0" expanded="false" />
-            <element signature="e#628#629#0" expanded="false" />
-            <element signature="e#680#681#0" expanded="false" />
-            <element signature="e#726#727#0" expanded="false" />
-            <element signature="e#768#769#0" expanded="false" />
-            <element signature="e#803#804#0" expanded="false" />
-            <element signature="e#862#863#0" expanded="false" />
-            <element signature="e#910#911#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ObjectTest/src/matchmanager/Match.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
+        <state relative-caret-position="731">
+          <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2074">
+          <caret line="168" column="25" selection-start-line="168" selection-start-column="25" selection-end-line="168" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectTest/src/forkjoin/ParallelStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectTest/src/forkjoin/forkTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectTest/src/forkjoin/ForkJoinSumCalculation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ObjectTest/src/test/Match.java">
+    <entry file="file://$PROJECT_DIR$/ObjectTest/src/chapter888/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1037">
-          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="289">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ObjectTest/src/test/MatchTest.java">
+    <entry file="file://$PROJECT_DIR$/ObjectTest/src/apple/Apple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="65" column="37" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
+        <state relative-caret-position="85">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectTest/src/apple/MethodReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="38" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6732">
+          <caret line="428" column="39" selection-start-line="428" selection-start-column="39" selection-end-line="428" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectTest/src/aroundpattern/AroundFunctionProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectTest/src/aroundpattern/AroundPatternTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
           <folding />
         </state>
       </provider>
@@ -1731,7 +1709,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ObjectTest</last-edited>
+          <last-edited>hyundee.javatest.sample</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

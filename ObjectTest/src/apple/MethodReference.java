@@ -1,6 +1,7 @@
 package apple;
 
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 import java.util.function.BiFunction;
 import java.util.function.Supplier;
@@ -30,6 +31,8 @@ public class MethodReference {
         prettyPrintApple(inventory , new  AppleFancyFormatter());
         prettyPrintApple(inventory, new AppleSimpleFormatter());
 
+
+        inventory.sort(Comparator.comparing());
 
     }
 

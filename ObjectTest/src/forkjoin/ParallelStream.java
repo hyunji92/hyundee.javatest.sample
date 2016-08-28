@@ -37,5 +37,12 @@ public class ParallelStream {
         return  result;
     }
 
+    long[] linked;
+    ForkJoinSumCalculation forkJoinSumCalculation =  new ForkJoinSumCalculation(linked);
 
+    public ForkJoinSumCalculation getForkJoinSumCalculation() {
+
+
+        return forkJoinSumCalculation;
+    }
 }

@@ -32,7 +32,7 @@ public class ForkJoinSumCalculation extends RecursiveTask<Long> {
         int length = end - start; // 이 태스크에서 더할 배열의 길이
         if (length <= THRESHOLD){
             /** 기준값과 같거나 작으면 순차적으로 결과를 계산한다*//** 기준값과 같거나 작으면 순차적으로 결과를 계산한다*/
-            return compureSequentially();
+            return computeSequentially();
         }
 
         ForkJoinSumCalculation leftTask = new ForkJoinSumCalculation(numbers, start, start + length / 2);//배열의 첫번째 절반을 더하도록 서브태스크를 생성
@@ -58,7 +58,7 @@ public class ForkJoinSumCalculation extends RecursiveTask<Long> {
         return new ForkJoinPool().invoke(task);
     }
 
-    private long compureSequentially() {
+    private long computeSequentially() {
     /**더 분할할 수 없을 때 서브태스크의 결과를 계산하는 단한 알고리즘이다. */
         long sum = 0;
         for(int i = start; i < end ; i++ ){

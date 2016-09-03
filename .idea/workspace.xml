@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/ObjectTest/src/observertest/ObserverPatternEx1.java" line="18" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0c8ce1aa-9f50-4af9-bd5d-f9deb052fbeb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ObjectTest/src/forkjoin/forkTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ObjectTest/src/observertest/DataSheetView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ObjectTest/src/observertest/ObserverPatternEx1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ObjectTest/src/observertest/ScoreRecord.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ObjectTest/src/observertest2/ObserverPatternEx2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ObjectTest/src/observertest3/ObserverPatternEx3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ObjectTest/src/observertest4/ObserverPatternEx4.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ObjectTest/src/apple/MethodReference.java" afterPath="$PROJECT_DIR$/ObjectTest/src/apple/MethodReference.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ObjectTest/src/forkjoin/ForkJoinSumCalculation.java" afterPath="$PROJECT_DIR$/ObjectTest/src/forkjoin/ForkJoinSumCalculation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ObjectTest/src/forkjoin/ParallelStream.java" afterPath="$PROJECT_DIR$/ObjectTest/src/forkjoin/ParallelStream.java" />
     </list>
     <ignored path="hyundee.javatest.sample.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,56 +47,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Stream.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2074">
-              <caret line="168" column="25" selection-start-line="168" selection-start-column="25" selection-end-line="168" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ForkJoinSumCalculation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ObjectTest/src/forkjoin/ForkJoinSumCalculation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#551#552#0" expanded="true" />
-                <element signature="e#599#600#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ObjectTest/src/chapter888/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Apple.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ObjectTest/src/apple/Apple.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MethodReference.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ObjectTest/src/apple/MethodReference.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
               <caret line="34" column="38" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="38" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,7 +64,14 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="6732">
               <caret line="428" column="39" selection-start-line="428" selection-start-column="39" selection-end-line="428" selection-end-column="39" />
-              <folding />
+              <folding>
+                <element signature="e#0#22438#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#7819#7820#0" expanded="false" />
+                <element signature="e#7872#7873#0" expanded="false" />
+                <element signature="e#14106#14107#0" expanded="false" />
+                <element signature="e#14155#14156#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,12 +81,14 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AroundPatternTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AroundPatternTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ObjectTest/src/aroundpattern/AroundPatternTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="499">
@@ -126,22 +98,96 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="forkTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ObjectTest/src/forkjoin/forkTest.java">
+      <file leaf-file-name="ObserverPatternEx1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ObjectTest/src/observertest/ObserverPatternEx1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="85">
+              <caret line="5" column="31" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ParallelStream.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ObjectTest/src/forkjoin/ParallelStream.java">
+      <file leaf-file-name="ObserverPatternEx2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ObjectTest/src/observertest2/ObserverPatternEx2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state relative-caret-position="612">
+              <caret line="39" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#518#519#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+                <element signature="e#840#841#0" expanded="true" />
+                <element signature="e#869#870#0" expanded="true" />
+                <element signature="e#978#979#0" expanded="true" />
+                <element signature="e#1024#1025#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObserverPatternEx3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ObjectTest/src/observertest3/ObserverPatternEx3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="77" column="31" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#431#432#0" expanded="true" />
+                <element signature="e#480#481#0" expanded="true" />
+                <element signature="e#536#537#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+                <element signature="e#895#896#0" expanded="true" />
+                <element signature="e#924#925#0" expanded="true" />
+                <element signature="e#1033#1034#0" expanded="true" />
+                <element signature="e#1079#1080#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObserverPatternEx4.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ObjectTest/src/observertest4/ObserverPatternEx4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="92" column="44" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#426#427#0" expanded="true" />
+                <element signature="e#465#466#0" expanded="true" />
+                <element signature="e#510#511#0" expanded="true" />
+                <element signature="e#552#553#0" expanded="true" />
+                <element signature="e#958#959#0" expanded="true" />
+                <element signature="e#987#988#0" expanded="true" />
+                <element signature="e#1935#1936#0" expanded="true" />
+                <element signature="e#1981#1982#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataSheetView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ObjectTest/src/observertest/DataSheetView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="41" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="41" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScoreRecord.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ObjectTest/src/observertest/ScoreRecord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
+                <element signature="e#604#605#0" expanded="true" />
+                <element signature="e#633#634#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -450,6 +496,13 @@
         <option value="$PROJECT_DIR$/ObjectTest/src/forkjoin/forkTest.java" />
         <option value="$PROJECT_DIR$/ObjectTest/src/forkjoin/ForkJoinSumCalculation.java" />
         <option value="$PROJECT_DIR$/ObjectTest/src/apple/MethodReference.java" />
+        <option value="$PROJECT_DIR$/ObjectTest/src/observertest/ScoreRecord.java" />
+        <option value="$PROJECT_DIR$/ObjectTest/src/observertest/DataSheetView.java" />
+        <option value="$PROJECT_DIR$/ObjectTest/src/observertest/ObserverPatternEx1.java" />
+        <option value="$PROJECT_DIR$/ObjectTest/src/observertest/ObserverPatternEx2.java" />
+        <option value="$PROJECT_DIR$/ObjectTest/src/observertest2/ObserverPatternEx2.java" />
+        <option value="$PROJECT_DIR$/ObjectTest/src/observertest3/ObserverPatternEx3.java" />
+        <option value="$PROJECT_DIR$/ObjectTest/src/observertest4/ObserverPatternEx4.java" />
       </list>
     </option>
   </component>
@@ -490,10 +543,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -585,55 +634,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="matchmanager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hyundee.javatest.sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hyundee.javatest.sample" />
+              <option name="myItemId" value="observertest4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ObjectTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="forkjoin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hyundee.javatest.sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hyundee.javatest.sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ObjectTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter888" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Test.java" />
+              <option name="myItemId" value="ObserverPatternEx4.java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -655,8 +660,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="birdview" />
+              <option name="myItemId" value="observertest3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ObserverPatternEx3.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -677,8 +686,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="aroundpattern" />
+              <option name="myItemId" value="observertest2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ObserverPatternEx2.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -699,18 +712,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="apple" />
+              <option name="myItemId" value="observertest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="full.screen.before.presentation.mode" value="false" />
@@ -1202,7 +1219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1471926147031</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Java - 8단원 , 담주 9,10,11&#10;&#10;">
+      <created>1472381850201</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1472381850201</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1286,7 +1310,8 @@
     <MESSAGE value="Java - 7단원 예제중&#10;parallelStream&#10;" />
     <MESSAGE value="Java - 8단원 예제중&#10;&#10;" />
     <MESSAGE value="Java - Coding Test / stream&#10;&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java - Coding Test / stream&#10;&#10;" />
+    <MESSAGE value="Java - 8단원 , 담주 9,10,11&#10;&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java - 8단원 , 담주 9,10,11&#10;&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1307,42 +1332,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ObjectTest/src/aroundpattern/AroundFunctionProcess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/referenceTest/src/couple/kukejelly.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/referenceTest/src/couple/kukejelly/ReferenceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="36" column="14" selection-start-line="36" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ObjectTest/src/dish/DishMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ObjectTest/src/dish/FaltMapEX.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ObjectTest/src/supplier.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/function/Supplier.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1599,12 +1588,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ObjectTest/src/forkjoin/ForkJoinSumCalculation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
+        <state relative-caret-position="306">
           <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#551#552#0" expanded="false" />
+            <element signature="e#599#600#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1629,7 +1618,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="34" column="38" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="38" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1637,7 +1628,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6732">
           <caret line="428" column="39" selection-start-line="428" selection-start-column="39" selection-end-line="428" selection-end-column="39" />
-          <folding />
+          <folding>
+            <element signature="e#0#22438#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#7819#7820#0" expanded="false" />
+            <element signature="e#7872#7873#0" expanded="false" />
+            <element signature="e#14106#14107#0" expanded="false" />
+            <element signature="e#14155#14156#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1645,7 +1643,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1654,6 +1654,88 @@
         <state relative-caret-position="499">
           <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectTest/src/observertest/ScoreRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectTest/src/observertest/DataSheetView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectTest/src/observertest/ObserverPatternEx1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectTest/src/observertest2/ObserverPatternEx2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="39" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#869#870#0" expanded="true" />
+            <element signature="e#978#979#0" expanded="true" />
+            <element signature="e#1024#1025#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectTest/src/observertest3/ObserverPatternEx3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="77" column="31" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+            <element signature="e#924#925#0" expanded="true" />
+            <element signature="e#1033#1034#0" expanded="true" />
+            <element signature="e#1079#1080#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectTest/src/observertest4/ObserverPatternEx4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="92" column="44" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#958#959#0" expanded="true" />
+            <element signature="e#987#988#0" expanded="true" />
+            <element signature="e#1935#1936#0" expanded="true" />
+            <element signature="e#1981#1982#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -6,7 +6,7 @@ import java.util.List;
  * Created by hyunji on 2016. 9. 3..
  */
 
-class DataSheetView {
+public class DataSheetView {
     private observertest2.ScoreRecord scoreRecord;
     private int viewCount;
 

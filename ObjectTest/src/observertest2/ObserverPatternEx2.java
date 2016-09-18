@@ -1,5 +1,7 @@
 package observertest2;
 
+import observertest.DataSheetView;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -11,6 +13,7 @@ class ScoreRecord {
     private List<Integer> scores = new ArrayList<>();   //  점수를 저장함
     //private DataSheetView dataSheetView;    //  목록 형태로 점수를 출력하는 클래스
     private MinMaxView minMaxView;
+    private DataSheetView dataSheetView;
 
     /* public void setDataSheetView(DataSheetView dataSheetView) {
         this.dataSheetView = dataSheetView;
@@ -28,6 +31,10 @@ class ScoreRecord {
 
     public List<Integer> getScoreRecord() {
         return scores;
+    }
+
+    public void setDataSheetView(DataSheetView dataSheetView) {
+        this.dataSheetView = dataSheetView;
     }
 }
 
